@@ -16,6 +16,7 @@ Custom packages that can be imported in your Unity project directly from the pac
 
 ## Unity Templates
 
+- `finished` [Package Template](https://github.com/Jellevermandere/UnityPackageTemplate)
 - `finished` [BasicCharacter](https://github.com/Jellevermandere/BasicCharacterUnity)
 - `developing` [BaseGameTemplate](https://github.com/Jellevermandere/BaseGameTemplate)
 
